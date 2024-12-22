@@ -1,6 +1,6 @@
 # atm_consultoria_app
 
-A new Flutter project.
+Basic app to test navigation between screens.
 
 ## Getting Started
 
